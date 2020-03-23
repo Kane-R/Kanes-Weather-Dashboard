@@ -1,0 +1,62 @@
+html {
+  font-size: 16px;
+}
+
+.brand {
+  font-size: 2rem;
+}
+
+.caption .btn {
+  margin-top: 2rem;
+}
+
+.section-search {
+  /* background: rgba(0, 121, 107, 0.3); */
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  width: 80%;
+  z-index: 10;
+  /* padding-bottom: 0.6rem; */
+}
+
+.section-search h3 {
+  margin: 0;
+  padding: 1rem;
+}
+
+.section-search input {
+  padding: 0.15rem 0.5rem !important; 
+}
+
+.section-search .input-field .col {
+  padding: 0;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.section-icons .card-panel {
+  margin-top: 50px;
+}
+
+
+.weather-info {
+  margin-top: 2rem;
+}
+
+.weather-icon {
+  width: 85% !important;
+}
+
+.temp {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.search-history {
+  display: none;
+}
