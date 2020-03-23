@@ -44,10 +44,6 @@ So that I can think of places I'd like to know about and perhaps visit when this
   * Temperature
   * Humidity
 
-## Demo
-
-![weather dashboard](./img/server-side-demo.png)
-
 ## User Specifications
 
 - [x] Fully functional, deployed application.
@@ -77,10 +73,6 @@ So that I can think of places I'd like to know about and perhaps visit when this
 - [x] Use [DarkSky API](https://darksky.net/dev) to get daily forecast
 
 - [x] Use Materialize CSS for UI
-
-## End Result
-
-![end result](./img/demo.gif)
 
 ## Tech Stack
 
